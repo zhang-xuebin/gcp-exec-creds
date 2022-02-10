@@ -1,4 +1,4 @@
-module github.com/sl1pm4t/gcp-exec-creds
+module github.com/zhang-xuebin/gcp-exec-creds
 
 go 1.18
 
